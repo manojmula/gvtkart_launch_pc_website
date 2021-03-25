@@ -1,0 +1,28 @@
+
+p{
+    color: #2F4858;
+    font-family: 'Roboto';
+    font-weight: 800;
+    font-style:initial ;
+    text-align: center;
+    font-size: 5rem;
+}
+
+
+div.container4 {
+    height : 10rem;
+    position: relative;
+    text-align: center;
+    padding: 20% 0 20%;
+    
+}
+
+div.container4 p{
+    margin: 0%;
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
